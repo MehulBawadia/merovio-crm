@@ -20,6 +20,10 @@ npm install
 npm run dev
 ```
 
+### Live preview
+
+You can preview the <a href="https://merovio-crm.vercel.app/login" target="_blank">live site here</a>
+
 ### License
 
 This project is an open-sourced software licensed under the [MIT License](https://opensource.org/license/mit)
